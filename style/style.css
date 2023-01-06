@@ -120,15 +120,20 @@ main{
 table{
 
     padding-left: 250px;
+  
    
   text-align: center;
   font-size: 20px;
   width: 700;
+  border-collapse: collapse;
+}
+
+
 
   
-}
-.tr{
-    padding: 200;
-    justify-content: space-around;
 
+td{
+    margin-top: 300px;
+    border: none;
+    padding-bottom: 30px;
 }
